@@ -40,9 +40,9 @@
         "-Wno-unknown-pragmas",
         "-Wno-unknown-warning-option",
         "-Wno-documentation-unknown-command",
-        "/home/tike/projects/cpp/Qt/terminalChess/Project/main.cpp"
+        "/home/tike/projects/cpp/Qt/terminalChess/Project/source/main.cpp"
     ],
     "directory": "/home/tike/projects/cpp/Qt/terminalChess/build-Project-Desktop_Qt_6_3_0_GCC_64bit-Debug/.qtc_clangd",
-    "file": "/home/tike/projects/cpp/Qt/terminalChess/Project/main.cpp"
+    "file": "/home/tike/projects/cpp/Qt/terminalChess/Project/source/main.cpp"
 }
 ]
