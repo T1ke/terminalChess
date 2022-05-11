@@ -1,3 +1,0 @@
-/home/tike/projects/cpp/Qt/terminalChess/build-Project-Desktop_Qt_6_3_0_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
-/home/tike/projects/cpp/Qt/terminalChess/build-Project-Desktop_Qt_6_3_0_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
-/home/tike/projects/cpp/Qt/terminalChess/build-Project-Desktop_Qt_6_3_0_GCC_64bit-Debug/CMakeFiles/Project.dir
