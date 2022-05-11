@@ -105,4 +105,4 @@ Thumbs.db
 *.exe
 
 #build folder
-build-Project-Desktop_Qt_6_3_0_GCC_64bit-Debug/
+build-Project-Desktop_Qt_6_3_0_GCC_64bit-Debug/*
