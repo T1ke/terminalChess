@@ -6,6 +6,14 @@ class Pawn : public Piece
 {
 public:
     Pawn();
+    ~Pawn() {};
+
+    void move();
+    char getSign() { return sign;}
+    bool movePossible(){return true;};
+
+private:
+    char sign = 'P';
 };
 
 #endif // PAWN_H

@@ -3,5 +3,9 @@
 
 Piece::Piece()
 {
-    std::cout << "Piece created" << std::endl;
+}
+
+Piece::~Piece()
+{
+
 }

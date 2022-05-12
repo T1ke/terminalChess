@@ -1,6 +1,8 @@
 #include "../headers/pawn.h"
+#include <iostream>
 
-Pawn::Pawn()
+Pawn::Pawn() : Piece()
 {
-
+    sign = 'P';
 }
+

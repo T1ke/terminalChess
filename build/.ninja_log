@@ -1,0 +1,12 @@
+# ninja log v5
+0	678	1652366605428019894	CMakeFiles/Project.dir/source/main.cpp.o	c12e9fb4699cc3db
+1	396	1652366692676377098	CMakeFiles/Project.dir/source/main.cpp.o	c12e9fb4699cc3db
+2	397	1652366720644492894	CMakeFiles/Project.dir/source/main.cpp.o	c12e9fb4699cc3db
+0	393	1652366744292591253	CMakeFiles/Project.dir/source/main.cpp.o	c12e9fb4699cc3db
+1	418	1652366887133193047	CMakeFiles/Project.dir/source/main.cpp.o	c12e9fb4699cc3db
+1	397	1652366956761490533	CMakeFiles/Project.dir/source/main.cpp.o	c12e9fb4699cc3db
+397	457	1652366956821490791	Project	c936908fbd52fae3
+2	433	1652367235862702572	CMakeFiles/Project.dir/source/main.cpp.o	c12e9fb4699cc3db
+433	489	1652367235918702819	Project	c936908fbd52fae3
+2	426	1652367379031333241	CMakeFiles/Project.dir/source/main.cpp.o	c12e9fb4699cc3db
+426	478	1652367379083333471	Project	c936908fbd52fae3
